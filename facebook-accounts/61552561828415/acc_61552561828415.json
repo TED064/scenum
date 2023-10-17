@@ -27,7 +27,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698139642,
+			"expirationDate": 1698139915,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -92,7 +92,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705310773.661996,
+			"expirationDate": 1705311061.981113,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +101,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0F7BXkh0IqnJpherr.AWUFmbafIsPGq4jqkfyEtSVymg0.BlLlHa.gw.AAA.0.0.BlLlM4.AWVzMUQ-t8A"
+			"value": "0F7BXkh0IqnJpherr.AWVGfQjVa3axbTUnLgs5asN5kdw.BlLlHa.gw.AAA.0.0.BlLlRZ.AWWnDTRCrgo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,8 +113,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1697534844645%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1697535118143%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.10.2023 09:30 Criar Conta"
+	"lastEventDate": "17.10.2023 09:35 Criar Conta"
 }
